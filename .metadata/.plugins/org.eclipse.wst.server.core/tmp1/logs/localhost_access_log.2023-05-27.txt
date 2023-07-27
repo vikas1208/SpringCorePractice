@@ -1,0 +1,17 @@
+127.0.0.1 - - [27/May/2023:12:52:50 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [27/May/2023:12:52:52 +0530] "GET /spring-love-calculator/ HTTP/1.1" 200 1078
+0:0:0:0:0:0:0:1 - - [27/May/2023:12:52:59 +0530] "GET /spring-love-calculator/process-homepage?userName=Mr+xx&crushName=Miss+yy&termCondition=true&_termCondition=on HTTP/1.1" 200 221
+0:0:0:0:0:0:0:1 - - [27/May/2023:12:53:06 +0530] "GET /spring-love-calculator/process-homepage?userName=Mr+xx&crushName=Miss+yy&termCondition=true&_termCondition=on HTTP/1.1" 200 221
+0:0:0:0:0:0:0:1 - - [27/May/2023:12:53:17 +0530] "GET /spring-love-calculator/register HTTP/1.1" 500 4886
+127.0.0.1 - - [27/May/2023:13:06:09 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [27/May/2023:13:06:10 +0530] "GET /spring-love-calculator/ HTTP/1.1" 200 1078
+0:0:0:0:0:0:0:1 - - [27/May/2023:13:06:18 +0530] "GET /spring-love-calculator/ HTTP/1.1" 200 1078
+0:0:0:0:0:0:0:1 - - [27/May/2023:13:06:19 +0530] "GET /favicon.ico HTTP/1.1" 404 762
+0:0:0:0:0:0:0:1 - - [27/May/2023:13:06:22 +0530] "GET /spring-love-calculator/process-homepage?userName=Mr+xx&crushName=Miss+yy&termCondition=true&_termCondition=on HTTP/1.1" 200 221
+0:0:0:0:0:0:0:1 - - [27/May/2023:13:06:33 +0530] "GET /spring-love-calculator/register HTTP/1.1" 500 4894
+127.0.0.1 - - [27/May/2023:13:11:31 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [27/May/2023:13:11:33 +0530] "GET /spring-love-calculator/ HTTP/1.1" 200 1078
+0:0:0:0:0:0:0:1 - - [27/May/2023:13:11:41 +0530] "GET /spring-love-calculator/register HTTP/1.1" 200 1828
+0:0:0:0:0:0:0:1 - - [27/May/2023:13:13:24 +0530] "GET /spring-love-calculator/registration-success?name=Vikas&userName=Vikas1208&password=12345&country=Ind&hobby=Cricket&_hobby=on&hobby=Hockey&_hobby=on&hobby=Reading&_hobby=on&hobby=Travel&_hobby=on&gender=male HTTP/1.1" 200 408
+0:0:0:0:0:0:0:1 - - [27/May/2023:13:32:55 +0530] "GET /spring-love-calculator/ HTTP/1.1" 200 1078
+0:0:0:0:0:0:0:1 - - [27/May/2023:13:33:02 +0530] "GET /spring-love-calculator/process-homepage?userName=&crushName=Miss+yy&termCondition=true&_termCondition=on HTTP/1.1" 200 216

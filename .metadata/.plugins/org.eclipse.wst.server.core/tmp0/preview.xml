@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<server port="8080">
+  <module context="spring-love-calculator" name="spring-love-calculator" path="C:/Users/vikas/Documents/LearnSpring/.metadata/.plugins/org.eclipse.wst.server.core/tmp0/spring-love-calculator" type="j2ee"/>
+</server>
